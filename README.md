@@ -68,4 +68,3 @@ README.md
 - The project automatically switches between Claude, Gemini, and Ollama if a provider is unavailable.
 - Bulk processing is implemented using `asyncio` and `httpx` for efficient concurrent requests.
 - Ollama serves as a local fallback model and may produce slightly different results compared to cloud-based models.
-- 
