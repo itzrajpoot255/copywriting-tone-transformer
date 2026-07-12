@@ -1,7 +1,7 @@
 # Automated Copywriting & Tone Transformer
 A Python application that generates platform-specific marketing copy using AI. Simply provide a product name, platform, tone, and description, and the tool creates ready-to-use promotional content tailored for the selected platform.
 
-This project was developed as **Project 2** during the **DecodeLabs Generative AI Internship**.
+This project was developed as **Project** during the **DecodeLabs Generative AI Internship**.
 
 ## Features
 - Generate marketing copy for LinkedIn, Instagram, and Email
